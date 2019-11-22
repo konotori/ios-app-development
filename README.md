@@ -10,7 +10,12 @@ Learn iOS Programming by working through the course [App Development with Swift]
 ### Unit 2 - Introduction to UIKit
   |Order|Project Name
   |---|---
-  |2.7|[Apple Pie](./ApplePie) (Guided Project)
+  |2.1|[Hello](./Hello)
+  |2.2|[Hobby Tutorial](./HobbyTutorial)
+  |2.3|[Common Input Control](./CommonInputControls)
+  |2.4|[Two Buttons](./TwoButtons)
+  |2.5|[Calculator](./Calculator)
+  |2.6|[Apple Pie](./ApplePie) (Guided Project)
   
 ### Unit 3 - Navigation and Workflows
   |Order|Project Name
@@ -21,3 +26,12 @@ Learn iOS Programming by working through the course [App Development with Swift]
   |3.4|[Life Cycle](./LifeCycle)
   |3.5|[Order Of Events](./OrderOfEvents)
   |3.6|[Personality Quiz](./PersonalityQuiz) (Guided Project)
+  
+### Unit 4 - Table and Persistence
+|Order|Project Name
+|---|---
+|4.1|[App Life Cycle](./AppLifeCycle)
+|4.2|[App Event Count](./AppEventCount)
+|4.3|[Favorite Athletes](./FavoriteAthlete)
+|4.4|[Scrolling Form](./ScrollingForm)
+|4.5|[ISpy](./ISpy)
