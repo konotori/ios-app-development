@@ -12,7 +12,7 @@ Learn iOS Programming by working through the course [App Development with Swift]
   |---|---
   |2.7|[Apple Pie](./ApplePie) (Guided Project)
   
-### 3 - Navigation and Workflows
+### Unit 3 - Navigation and Workflows
   |Order|Project Name
   |---|---
   |3.1|[Traffic Segues](./TrafficSegues)
