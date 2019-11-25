@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A0624E2238B7A8A003299DC /* EmojiTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A0624E1238B7A8A003299DC /* EmojiTableViewCell.swift */; };
+		1A0624E4238B803D003299DC /* AddOrEdditTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A0624E3238B803D003299DC /* AddOrEdditTableViewController.swift */; };
 		1A7C686323866B250086DA7A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7C686223866B250086DA7A /* AppDelegate.swift */; };
 		1A7C686523866B250086DA7A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7C686423866B250086DA7A /* SceneDelegate.swift */; };
 		1A7C686723866B250086DA7A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7C686623866B250086DA7A /* ViewController.swift */; };
@@ -18,6 +20,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1A0624E1238B7A8A003299DC /* EmojiTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiTableViewCell.swift; sourceTree = "<group>"; };
+		1A0624E3238B803D003299DC /* AddOrEdditTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddOrEdditTableViewController.swift; sourceTree = "<group>"; };
 		1A7C685F23866B250086DA7A /* EmojiDictionary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EmojiDictionary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A7C686223866B250086DA7A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1A7C686423866B250086DA7A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +68,8 @@
 				1A7C686423866B250086DA7A /* SceneDelegate.swift */,
 				1A7C686623866B250086DA7A /* ViewController.swift */,
 				1A7C686823866B250086DA7A /* Main.storyboard */,
+				1A0624E3238B803D003299DC /* AddOrEdditTableViewController.swift */,
+				1A0624E1238B7A8A003299DC /* EmojiTableViewCell.swift */,
 				1A7C68782386958A0086DA7A /* EmojiTableViewController.swift */,
 				1A7C686B23866B250086DA7A /* Assets.xcassets */,
 				1A7C686D23866B250086DA7A /* LaunchScreen.storyboard */,
@@ -148,7 +154,9 @@
 				1A7C686323866B250086DA7A /* AppDelegate.swift in Sources */,
 				1A7C687723866B570086DA7A /* Emoji.swift in Sources */,
 				1A7C686523866B250086DA7A /* SceneDelegate.swift in Sources */,
+				1A0624E2238B7A8A003299DC /* EmojiTableViewCell.swift in Sources */,
 				1A7C68792386958A0086DA7A /* EmojiTableViewController.swift in Sources */,
+				1A0624E4238B803D003299DC /* AddOrEdditTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
