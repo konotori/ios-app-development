@@ -5,6 +5,10 @@ Learn iOS Programming by working through the course [App Development with Swift]
 ### Unit 1 - Getting Started with App Development
   |Order|Project Name
   |---|---
+  |1.1|[Getting Started](./GettingStarted) 
+  |1.2|[First Time Debugging](./FirstTimeDebugging) 
+  |1.3|[IBBasics](./IBBasics) 
+  |1.4|[Interface Builder Basics](./InterfaceBuilderBasics) 
   |1.5|[Light](./Light) (Guided Project)
 
 ### Unit 2 - Introduction to UIKit
