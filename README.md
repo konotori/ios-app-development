@@ -35,3 +35,4 @@ Learn iOS Programming by working through the course [App Development with Swift]
 |4.3|[Favorite Athletes](./FavoriteAthlete)
 |4.4|[Scrolling Form](./ScrollingForm)
 |4.5|[ISpy](./ISpy)
+|4.6|[EmojiDictionary](./EmojiDictionary)
