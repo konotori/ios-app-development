@@ -41,3 +41,5 @@ Learn iOS Programming by working through the course [App Development with Swift]
 |4.5|[ISpy](./ISpy)
 |4.6|[EmojiDictionary](./EmojiDictionary)
 |4.7|[Favorite Books](./FavoriteBook)
+|4.8|[System View Controller](./SystemViewControllers)
+|4.9|[HomeFurniture](./HomeFurniture)
