@@ -45,4 +45,4 @@ Learn iOS Programming by working through the course [App Development with Swift]
 |4.9|[HomeFurniture](./HomeFurniture)
 |4.10|[Hotel Manzana](./HotelManzana)
 |4.11|[Employee Roster](./EmployeeRoster)
-|4.12|[ToDo List (Guided Project)](./ToDoList)
+|4.12|[ToDo List](./ToDoList) (Guided Project)
