@@ -46,3 +46,11 @@ Learn iOS Programming by working through the course [App Development with Swift]
 |4.10|[Hotel Manzana](./HotelManzana)
 |4.11|[Employee Roster](./EmployeeRoster)
 |4.12|[ToDo List](./ToDoList) (Guided Project)
+
+### Unit 5 - Wokring with the Web
+|Order|Project Name
+|---|---
+|5.1|[Music Wireframe](./MusicWireframe)
+|5.2|[Contest](./Contest)
+|5.3|[Working With The Web](./WorkingWithTheWeb)
+
