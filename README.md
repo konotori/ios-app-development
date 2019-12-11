@@ -53,5 +53,6 @@ Learn iOS Programming by working through the course [App Development with Swift]
 |5.1|[Music Wireframe](./MusicWireframe)
 |5.2|[Contest](./Contest)
 |5.3|[Working With The Web](./WorkingWithTheWeb)
+|5.4|[iTunes Search](./iTunesSearch)
 |5.5|[Space Photo](./SpacePhoto)
 
