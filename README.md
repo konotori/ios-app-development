@@ -57,3 +57,6 @@ Learn iOS Programming by working through the course [App Development with Swift]
 |5.5|[Space Photo](./SpacePhoto)
 |5.6|[Restaurant](./Restaurant) (Guided Project)
 
+## Resources
+- [App Development with Swift](https://itunes.apple.com/us/book/app-development-with-swift/id1219117996) - the course book (free iBook published by Apple)
+- [Student Resources](https://developer.apple.com/go/?id=app-dev-swift-student-swift-4) - supplemental materials
